@@ -1,6 +1,7 @@
 html, body {
 margin: 0;
 }
+
 .stars__star {
 width: 20px;
 height: 20px;
@@ -10,9 +11,11 @@ background-repeat: no-repeat;
 background-position: center;
 margin-right: 4px;
 }
+
 .stars__star:last-child {
 margin-right: 0;
 }
+
 .stars {
 display: flex;
 }
